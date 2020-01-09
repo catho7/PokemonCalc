@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578568621503,
+  "timestamp": 1578571226527,
   "index": "https://catho7.github.io/PokemonCalc/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
         "https://catho7.github.io/PokemonCalc/assets/tweet.png",
         "https://catho7.github.io/PokemonCalc/favicon.ico",
         "https://catho7.github.io/PokemonCalc/index.html",
-        "https://catho7.github.io/PokemonCalc/main-es2015.852df397fc292015c4f6.js",
-        "https://catho7.github.io/PokemonCalc/main-es5.852df397fc292015c4f6.js",
+        "https://catho7.github.io/PokemonCalc/main-es2015.31310e203cb25a0fc20a.js",
+        "https://catho7.github.io/PokemonCalc/main-es5.31310e203cb25a0fc20a.js",
         "https://catho7.github.io/PokemonCalc/manifest.webmanifest",
         "https://catho7.github.io/PokemonCalc/polyfills-es2015.2987770fde9daa1d8a2e.js",
         "https://catho7.github.io/PokemonCalc/polyfills-es5.df1101cc1e7b588877f8.js",
@@ -2089,9 +2089,9 @@
     "https://catho7.github.io/PokemonCalc/assets/ms-s312a62781b.png": "36151ad5d37af3ca01b3cca55dde90ca089ce75f",
     "https://catho7.github.io/PokemonCalc/assets/tweet.png": "5986cc5325dd41b1a2a48f03af4b44d5d0c028f0",
     "https://catho7.github.io/PokemonCalc/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://catho7.github.io/PokemonCalc/index.html": "25800ba88dc1c701bca1544b99227ffb6a80200d",
-    "https://catho7.github.io/PokemonCalc/main-es2015.852df397fc292015c4f6.js": "6e9030b5c9d6cf7986e3d43fb19666685f34feab",
-    "https://catho7.github.io/PokemonCalc/main-es5.852df397fc292015c4f6.js": "3063be4695cfa4d774e717cf5a8e99c6a39dd7f7",
+    "https://catho7.github.io/PokemonCalc/index.html": "f8b9da86293fa0fdcdc0e19a537402c229a15824",
+    "https://catho7.github.io/PokemonCalc/main-es2015.31310e203cb25a0fc20a.js": "a12b2835cac5b6e3a1d9e14c8281af7569458a60",
+    "https://catho7.github.io/PokemonCalc/main-es5.31310e203cb25a0fc20a.js": "f5e357a231b1846bad2b9784b3affab9d7a038d9",
     "https://catho7.github.io/PokemonCalc/manifest.webmanifest": "4d21ee6519ea51e4f7545a43631efc6f5706c4da",
     "https://catho7.github.io/PokemonCalc/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "https://catho7.github.io/PokemonCalc/polyfills-es5.df1101cc1e7b588877f8.js": "be7220c312d2c09c05c0e8aad50c5ec13d0c4c1f",
