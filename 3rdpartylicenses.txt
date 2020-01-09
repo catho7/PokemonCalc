@@ -38,6 +38,9 @@ MIT
 @angular/service-worker
 MIT
 
+angular-ng-autocomplete
+MIT
+
 animate.css
 MIT
 The MIT License (MIT)

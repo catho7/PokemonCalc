@@ -3,29 +3,83 @@
 <head>
   <meta charset="utf-8">
   <title>X世代ダメージ計算機 for ポケモン剣盾</title>
-  <meta name="description" content="無限体同時計算のポケモンダメージ計算機、HPも素早さも調整可能">
+  <meta name="description" content="無限体同時計算のポケモンダメージ計算機、HPも素早さも調整できる">
   <meta name="keywords" content="ポケモン, Pokemon, 調整ツール">
   <link rel="canonical" href="https://catho7.github.io/PokemonCalc/">
   <base href="https://catho7.github.io/PokemonCalc/">  <meta http-equiv="Cache-control" content="public, Cache-Control: max-age=259200">
-  <meta name="google-site-verification" content="5y7z2Nvtf1qW-fOdaycLxz-gj3X5dNhiGF48_fve3I8">
+  <meta rel="preload" href="assets/ms-s312a62781b.png" as="image">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="all">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon-iphone.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/assets/icons/apple-touch-icon-iphone.png">
-  <link rel="apple-touch-icon" sizes="167x167" href="/assets/icons/apple-touch-icon-ipad-retina.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/icons/apple-touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="144x144" href="/assets/icons/icon-144x144.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="152x152" href="/assets/icons/apple-touch-icon-iphone152.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="167x167" href="/assets/icons/apple-touch-icon-ipad-retina.png">
+  <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/icons/apple-touch-icon-iphone-retina.png">
 
   <meta property="og:url" content="https://catho7.github.io/PokemonCalc/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="X世代ダメージ計算機 for ポケモン剣盾">
   <meta property="og:description" content="無限体同時計算のポケモンダメージ計算機、HPも素早さも調整可能">
   <!--meta property="og:image" content=""-->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
   <link rel="manifest" href="manifest.webmanifest">
-  <meta name="theme-color" content="#1976d2">
-  
+  <meta name="theme-color" content="#000000">
+
+  <!--raphaelfabeni/css-loader MIT License © Raphael Fabeni-->
+  <style type="text/css">
+    app-root:empty::before {
+      content: '';
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      top: 50%;
+      left: 50%;
+      margin: -50px 0 0 -50px;
+      background: linear-gradient(to bottom, #f00 42%, #000 42%, #000 58%, #fff 58%);
+      background-repeat: no-repeat;
+      background-color: #fff;
+      border-radius: 50%;
+      z-index: 1;
+      animation: movePokeball 1s linear infinite both;
+      box-shadow: 0 0 0 4px #000;
+    
+    }
+    app-root:empty::after {
+      content: '';
+      position: absolute;
+      width: 24px;
+      height: 24px;
+      top: 50%;
+      left: 50%;
+      margin: -12px 0 0 -12px;
+      background-color: #fff;
+      border-radius: 50%;
+      z-index: 2;
+      animation: movePokeball 1s linear infinite both, flashPokeball .5s infinite alternate;
+      border: solid 2px #000;
+      box-shadow: 0 0 0 5px #fff, 0 0 0 10px #000;
+    }
+
+    @keyframes movePokeball {
+      0% {transform: translateX(0) rotate(0)}
+
+      15% {
+        transform: translateX(-10px) rotate(-5deg)
+      }
+      30% {
+        transform: translateX(10px) rotate(5deg)
+      }
+      45% {
+        transform: translateX(0) rotate(0)
+      }
+    }
+
+    @keyframes flashPokeball {
+      0% {background-color: #fff}
+      100% {background-color: #fd0}
+    }
+  </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135556346-2"></script>
 
   <script>
@@ -36,12 +90,12 @@
     gtag('config', 'UA-135556346-2');
   </script>
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<link rel="stylesheet" href="styles.bca259003803b2302194.css"></head>
+<link rel="stylesheet" href="styles.e7add89819fa51954466.css"></head>
 
 
 
 <body>
   <app-root></app-root>
   <noscript>Please enable JavaScript to continue using this application.</noscript>
-<script src="runtime-es2015.edb2fcf2778e7bf1d426.js" type="module"></script><script src="runtime-es5.edb2fcf2778e7bf1d426.js" nomodule defer></script><script src="polyfills-es5.df1101cc1e7b588877f8.js" nomodule defer></script><script src="polyfills-es2015.2987770fde9daa1d8a2e.js" type="module"></script><script src="main-es2015.baf1d501d55ef0b77525.js" type="module"></script><script src="main-es5.baf1d501d55ef0b77525.js" nomodule defer></script></body>
+<script src="runtime-es2015.edb2fcf2778e7bf1d426.js" type="module"></script><script src="runtime-es5.edb2fcf2778e7bf1d426.js" nomodule defer></script><script src="polyfills-es5.df1101cc1e7b588877f8.js" nomodule defer></script><script src="polyfills-es2015.2987770fde9daa1d8a2e.js" type="module"></script><script src="main-es2015.48f76dee4ed1d0868d37.js" type="module"></script><script src="main-es5.48f76dee4ed1d0868d37.js" nomodule defer></script></body>
 </html>
