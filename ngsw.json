@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1578571226527,
+  "timestamp": 1579363324927,
   "index": "https://catho7.github.io/PokemonCalc/index.html",
   "assetGroups": [
     {
@@ -8,19 +8,15 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://catho7.github.io/PokemonCalc/assets/donate.png",
+        "https://catho7.github.io/PokemonCalc/assets/items-se5ef90cb77.png",
         "https://catho7.github.io/PokemonCalc/assets/ms-s312a62781b.png",
-        "https://catho7.github.io/PokemonCalc/assets/tweet.png",
         "https://catho7.github.io/PokemonCalc/favicon.ico",
         "https://catho7.github.io/PokemonCalc/index.html",
-        "https://catho7.github.io/PokemonCalc/main-es2015.31310e203cb25a0fc20a.js",
-        "https://catho7.github.io/PokemonCalc/main-es5.31310e203cb25a0fc20a.js",
+        "https://catho7.github.io/PokemonCalc/main-es2015.7c8a13ea834df5477354.js",
         "https://catho7.github.io/PokemonCalc/manifest.webmanifest",
         "https://catho7.github.io/PokemonCalc/polyfills-es2015.2987770fde9daa1d8a2e.js",
-        "https://catho7.github.io/PokemonCalc/polyfills-es5.df1101cc1e7b588877f8.js",
         "https://catho7.github.io/PokemonCalc/runtime-es2015.edb2fcf2778e7bf1d426.js",
-        "https://catho7.github.io/PokemonCalc/runtime-es5.edb2fcf2778e7bf1d426.js",
-        "https://catho7.github.io/PokemonCalc/styles.e7add89819fa51954466.css"
+        "https://catho7.github.io/PokemonCalc/styles.bc8d8641863d602a74ac.css"
       ],
       "patterns": []
     },
@@ -1049,11 +1045,7 @@
         "https://catho7.github.io/PokemonCalc/assets/icons/icon-384x384.png",
         "https://catho7.github.io/PokemonCalc/assets/icons/icon-512x512.png",
         "https://catho7.github.io/PokemonCalc/assets/icons/icon-72x72.png",
-        "https://catho7.github.io/PokemonCalc/assets/icons/icon-96x96.png",
-        "https://catho7.github.io/PokemonCalc/assets/items/AirBalloon.png",
-        "https://catho7.github.io/PokemonCalc/assets/items/AssaultVest.png",
-        "https://catho7.github.io/PokemonCalc/assets/items/HalfBerry.png",
-        "https://catho7.github.io/PokemonCalc/assets/items/occaberry.png"
+        "https://catho7.github.io/PokemonCalc/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -2070,7 +2062,6 @@
     "https://catho7.github.io/PokemonCalc/assets/PM/97.png": "d3eaafffbf36454beeb9d7e0fec6a63255a5a09c",
     "https://catho7.github.io/PokemonCalc/assets/PM/98.png": "95d9da62ecb7f2c6d394ca968b94b0ee9a7a316e",
     "https://catho7.github.io/PokemonCalc/assets/PM/99.png": "d37f027bc08c85edb3b8bb0d15deeae24b6c3e9c",
-    "https://catho7.github.io/PokemonCalc/assets/donate.png": "6bf0ca51065b2d6e202fd87b7fc7bcae54df6917",
     "https://catho7.github.io/PokemonCalc/assets/icons/apple-touch-icon-ipad-retina.png": "710c08c1a4934b9bc228af6e04474336dccb8242",
     "https://catho7.github.io/PokemonCalc/assets/icons/apple-touch-icon-iphone-retina.png": "963ec57a4303a59fd8349ed1a40962c662d3e724",
     "https://catho7.github.io/PokemonCalc/assets/icons/apple-touch-icon-iphone152.png": "72241b01406848b72d3ad8dd91dee912395b050e",
@@ -2082,22 +2073,15 @@
     "https://catho7.github.io/PokemonCalc/assets/icons/icon-512x512.png": "6f16f6d04c1aaf6b04a4b74087462f9d437998a2",
     "https://catho7.github.io/PokemonCalc/assets/icons/icon-72x72.png": "1e04bb49663faf605e6e516cdbc6ed05bbba39bb",
     "https://catho7.github.io/PokemonCalc/assets/icons/icon-96x96.png": "2933645765cf0a3e125a7f8c1e05bdce2b6f020d",
-    "https://catho7.github.io/PokemonCalc/assets/items/AirBalloon.png": "6745f8b28260d9a7a52af06b1770d8cb13664b85",
-    "https://catho7.github.io/PokemonCalc/assets/items/AssaultVest.png": "6456b49e793e0e591c19f0c0425fb217cae187bd",
-    "https://catho7.github.io/PokemonCalc/assets/items/HalfBerry.png": "e6ec4a4ec1ed52b96bbc866d05c41f83224a4792",
-    "https://catho7.github.io/PokemonCalc/assets/items/occaberry.png": "6ae8660b146f47a3e8c65770e29c2197a40bdb49",
+    "https://catho7.github.io/PokemonCalc/assets/items-se5ef90cb77.png": "fd93c7f7d84d650c97a8b2cc973b9b89fa37e6a8",
     "https://catho7.github.io/PokemonCalc/assets/ms-s312a62781b.png": "36151ad5d37af3ca01b3cca55dde90ca089ce75f",
-    "https://catho7.github.io/PokemonCalc/assets/tweet.png": "5986cc5325dd41b1a2a48f03af4b44d5d0c028f0",
     "https://catho7.github.io/PokemonCalc/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://catho7.github.io/PokemonCalc/index.html": "f8b9da86293fa0fdcdc0e19a537402c229a15824",
-    "https://catho7.github.io/PokemonCalc/main-es2015.31310e203cb25a0fc20a.js": "a12b2835cac5b6e3a1d9e14c8281af7569458a60",
-    "https://catho7.github.io/PokemonCalc/main-es5.31310e203cb25a0fc20a.js": "f5e357a231b1846bad2b9784b3affab9d7a038d9",
+    "https://catho7.github.io/PokemonCalc/index.html": "7b00b5287b8667ac7fbd858c0ea9ad5f3544ef42",
+    "https://catho7.github.io/PokemonCalc/main-es2015.7c8a13ea834df5477354.js": "61fd00ee3ece8ef02eb350e9ed7a9e09ab026531",
     "https://catho7.github.io/PokemonCalc/manifest.webmanifest": "4d21ee6519ea51e4f7545a43631efc6f5706c4da",
     "https://catho7.github.io/PokemonCalc/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
-    "https://catho7.github.io/PokemonCalc/polyfills-es5.df1101cc1e7b588877f8.js": "be7220c312d2c09c05c0e8aad50c5ec13d0c4c1f",
     "https://catho7.github.io/PokemonCalc/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://catho7.github.io/PokemonCalc/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "https://catho7.github.io/PokemonCalc/styles.e7add89819fa51954466.css": "9091d8ea9bb1e2ca6a5eb021b2e26ecceca2ec76"
+    "https://catho7.github.io/PokemonCalc/styles.bc8d8641863d602a74ac.css": "1e7c230cf3d6ffbc39710cb2ee5a638bf8085088"
   },
   "navigationUrls": [
     {
