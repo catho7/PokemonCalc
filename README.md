@@ -14,9 +14,10 @@
 * 未實作功能可使用能力等級等暫代(例:攻擊力x2效果->攻擊能力等級+2)
 * 最小傷害200%代表該怪極巨後確一，100%則確二
 * 其他更深入的計算，請使用以下計算器：
+	* [ポケモントレーナー天国](https://pokemon-trainer.net/swsh/damage/)
 	* [ポケマス](https://pokemass.com/swsh/dc)
 	* [Pokémon SoldieR](https://www.pokesol.com/tool/calc.html)
-	* [ポケモントレーナー天国](https://pokemon-trainer.net/sm/dmcs/) (未支援劍盾)
+
 
 ## 未實裝功能/內容
 * 部份道具
@@ -27,14 +28,16 @@
 * etc
 
 ## 更新簡介
+### 2020-02-02
+主要新增:聖劍系招式和一些特性
+
+另修正問題和提升少許網頁速度
+
 ### 2020-01-25
 主要新增:攻方常用特性、燃燒狀態
 
-速度提升至先制-1，於載入假想敵時分別最為明顯
-
-
+網頁速度提升至先制+0，於載入假想敵時最為顯著
 修正問題和改進於大顯示器上的效果
-
 
 ### 2020-01-19
 主要新增:招式欺詐、守方常用特性、道具、光牆、風沙天氣
@@ -67,6 +70,7 @@
 
 ## Special Thanks / 參考 /資料來源
 * [ポケモントレーナー天国 ダメージ計算機](https://pokemon-trainer.net/sm/dmcs/) - 測試對象
+* [ポケマス ダメージ計算ツール](https://pokemass.com/swsh/dc) - 測試對象
 * [Pokémon Damage Calculator - smogon](https://calc.pokemonshowdown.com/) - 測試對象
 * [ポケモンWiki](http://wiki.ポケモン.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) - 資料/圖
 * [ポケモン対戦考察まとめWiki](https://pokemon-wiki.net/) - 資料
@@ -79,6 +83,7 @@
 *  [Friconix](https://friconix.com) - Icons
 *  Sword Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  Shield Icons made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [flaticon.com](https://www.flaticon.com/)
+*  Line Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 
 ### HP調整功能
 * [HP調整チェック](http://pkc.client.jp/w/hpchk.html)
