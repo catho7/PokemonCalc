@@ -70,6 +70,7 @@
 
 ## Special Thanks / 參考 /資料來源
 * [ポケモントレーナー天国 ダメージ計算機](https://pokemon-trainer.net/sm/dmcs/) - 測試對象
+* [ポケモントレーナー天国 ダメージ計算機 for ソード/シールド](https://pokemon-trainer.net/swsh/damage/) - 參考
 * [ポケマス ダメージ計算ツール](https://pokemass.com/swsh/dc) - 測試對象
 * [Pokémon Damage Calculator - smogon](https://calc.pokemonshowdown.com/) - 測試對象
 * [ポケモンWiki](http://wiki.ポケモン.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) - 資料/圖
