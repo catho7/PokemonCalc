@@ -6,13 +6,11 @@
 ## 使用Tips
 * 本計算器可以離線使用，在電話上將網站加到主畫面就能像其他Apps一樣使用
 * 點擊箭咀等圖示，可以打開更多功能
-* 專用特性和道具僅限於該怪顯示(專用指僅於該怪有效)
+* 真專用特性和專用道具僅限於該怪顯示
 * 善用抓圖功能保存結果
 * 保存假想敵功能，其資料只會保存在當前的機器及瀏覽器
 * 調整的意義在於對戰時，你會知道發生什麼、不會發生什麼，並能從而判斷出對手的道具等
 * 使用率TOP的數據是用來針(針對)，不是用來跟(跟隨)
-* 未實作功能可使用能力等級等暫代(例:攻擊力x2效果->攻擊能力等級+2)
-* 最小傷害200%代表該怪極巨後確一，100%則確二
 * 其他更深入的計算，請使用以下計算器：
 	* [ポケモントレーナー天国](https://pokemon-trainer.net/swsh/damage/)
 	* [ポケマス](https://pokemass.com/swsh/dc)
@@ -28,6 +26,11 @@
 * etc
 
 ## 更新簡介
+### 2020-02-07
+主要新增:專用道具和一些特性
+
+另修正問題和提升少許網頁速度
+
 ### 2020-02-02
 主要新增:聖劍系招式和一些特性
 
@@ -69,7 +72,7 @@
 * [Github/PokemonCalc](https://github.com/catho7/PokemonCalc/issues/new) (中文、日文和英文也OK)
 
 ## Special Thanks / 參考 /資料來源
-* [ポケモントレーナー天国 ダメージ計算機](https://pokemon-trainer.net/sm/dmcs/) - 測試對象
+* [ポケモントレーナー天国 ダメージ計算機](https://pokemon-trainer.net/sm/dmcs/) - 測試對象/參考
 * [ポケモントレーナー天国 ダメージ計算機 for ソード/シールド](https://pokemon-trainer.net/swsh/damage/) - 參考
 * [ポケマス ダメージ計算ツール](https://pokemass.com/swsh/dc) - 測試對象
 * [Pokémon Damage Calculator - smogon](https://calc.pokemonshowdown.com/) - 測試對象
@@ -85,6 +88,7 @@
 *  Sword Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  Shield Icons made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [flaticon.com](https://www.flaticon.com/)
 *  Line Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
+*  and More
 
 ### HP調整功能
 * [HP調整チェック](http://pkc.client.jp/w/hpchk.html)
