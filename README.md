@@ -26,6 +26,12 @@
 * etc
 
 ## 更新簡介
+### 2020-03-01
+主要新增:壓力測試屬性過濾、刪除PM
+主要更新:電話上外觀
+
+修正問題和提升少許網頁速度
+
 ### 2020-02-29
 修正問題和提升少許網頁速度
 
@@ -101,6 +107,7 @@
 *  Sword Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  Shield Icons made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [flaticon.com](https://www.flaticon.com/)
 *  Line Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
+*  Filter Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  and More
 
 ### HP調整功能
