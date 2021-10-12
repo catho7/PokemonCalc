@@ -125,8 +125,8 @@
 * [ポケマス ダメージ計算ツール](https://pokemass.com/swsh/dc) - 測試對象
 * [Pokémon Damage Calculator - smogon](https://calc.pokemonshowdown.com/) - 測試對象
 * [ポケモンWiki](http://wiki.ポケモン.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) - 資料/圖
-* [ポケモン対戦考察まとめWiki](https://pokemon-wiki.net/) - 資料+算式
-* [Project’97](https://project1997.com) - 資料+算式
+* [ポケモン対戦考察まとめWiki](https://pokemon-wiki.net/) - 資料
+* [Project’97](https://project1997.com) - 資料
 * [ポケモン徹底攻略](https://yakkun.com/swsh/) - 資料
 * [serebii.net](https://www.serebii.net/) - 圖
 * [Pokémon Database](https://pokemondb.net/) - 資料
@@ -138,10 +138,6 @@
 *  Line Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  Filter Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  and More
-
-###Libraries used
-
-
 
 ### HP調整功能
 * [HP調整チェック](http://pkc.client.jp/w/hpchk.html)
