@@ -135,7 +135,7 @@
 * [serebii.net](https://www.serebii.net/) - 圖
 * [Pokémon Database](https://pokemondb.net/) - 資料
 * [ポケモン剣盾(ソードシールド)攻略 - GameWith](https://gamewith.jp/pokemon-sword-shield/) - 資料
-* [MPokemon](https://mpokemon.com) - 圖
+* [MPokemon](http://mpokemon.com) - 圖
 *  [Friconix](https://friconix.com) - Icons
 *  Sword Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon.com](https://www.flaticon.com/)
 *  Shield Icons made by [Those Icons](https://www.flaticon.com/authors/those-icons) from [flaticon.com](https://www.flaticon.com/)
@@ -151,7 +151,7 @@
 * [ゴミ置き場](https://ameblo.jp/konoyubitomareltu/entry-10639640506.html)
 * [HALのポケモントレーナー生活](https://pokego-swsh.com/status-hp/)
 * [レート１８００の嵐を乗り越えるマイナーなポケモン考察](https://pokebeginner.game-ss.com/ポケモン%E3%80%80便利ツール/サン・ムーン%20hpの仕組み%20奇数調整など！)
-* [廃人ロードの住民](https://haizinnroodonozyuumin.blog.jp/archives/1017858023.html)
+* [廃人ロードの住民](http://haizinnroodonozyuumin.blog.jp/archives/1017858023.html)
 * [絶対弱者 Byじゅん](https://www.ponz-poke.com/entry/2018/09/10/210532)
 
 ### 速度調整功能
