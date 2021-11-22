@@ -119,12 +119,12 @@
 ## Bug Report / 疑問
 * [Github/PokemonCalc](https://github.com/catho7/PokemonCalc/issues/new) (中文、日文和英文也OK)
 
-## Special Thanks / 參考 /資料來源
+## Special Thanks to / 參考 / 資料來源
 * [ポケモントレーナー天国 ダメージ計算機](https://pokemon-trainer.net/sm/dmcs/) - 測試對象/參考
 * [ポケモントレーナー天国 ダメージ計算機 for ソード/シールド](https://pokemon-trainer.net/swsh/damage/) - 參考
 * [ポケマス ダメージ計算ツール](https://pokemass.com/swsh/dc) - 測試對象
 * [Pokémon Damage Calculator - smogon](https://calc.pokemonshowdown.com/) - 測試對象
-* [ポケモンWiki](http://wiki.ポケモン.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) - 資料/圖
+* [ポケモンWiki](https://wiki.ポケモン.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8) - 資料/圖
 * [ポケモン対戦考察まとめWiki](https://pokemon-wiki.net/) - 資料
 * [Project’97](https://project1997.com) - 資料
 * [ポケモン徹底攻略](https://yakkun.com/swsh/) - 資料
@@ -140,14 +140,14 @@
 *  and More
 
 ### HP調整功能
-* [HP調整チェック](http://pkc.client.jp/w/hpchk.html)
-* [牛乳腹痛奮闘記（ポケモン育成メモ）](http://milkkun2525.gg-blog.com/【育成】育成に役立つメモ/【メモ】hp調整について%E3%80%82)
+* [HP調整チェック](https://pkc.client.jp/w/hpchk.html)
+* [牛乳腹痛奮闘記（ポケモン育成メモ）](https://milkkun2525.gg-blog.com/【育成】育成に役立つメモ/【メモ】hp調整について%E3%80%82)
 * [HP調整のめも Byめも](https://ch.nicovideo.jp/memomomo/blomaga/ar124459)
 * [ポケモンWiki - HP](https://wiki.ポケモン.com/wiki/HP)
 * [ゴミ置き場](https://ameblo.jp/konoyubitomareltu/entry-10639640506.html)
 * [HALのポケモントレーナー生活](https://pokego-swsh.com/status-hp/)
-* [レート１８００の嵐を乗り越えるマイナーなポケモン考察](http://pokebeginner.game-ss.com/ポケモン%E3%80%80便利ツール/サン・ムーン%20hpの仕組み%20奇数調整など！)
 * [廃人ロードの住民](http://haizinnroodonozyuumin.blog.jp/archives/1017858023.html)
+* [レート１８００の嵐を乗り越えるマイナーなポケモン考察](https://pokebeginner.game-ss.com/ポケモン%E3%80%80便利ツール/サン・ムーン%20hpの仕組み%20奇数調整など！)
 * [絶対弱者 Byじゅん](https://www.ponz-poke.com/entry/2018/09/10/210532)
 
 ### 速度調整功能
