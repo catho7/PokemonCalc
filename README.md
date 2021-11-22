@@ -29,7 +29,7 @@
 ### 2021-11-21
 新增劍盾DLC1+2怪物
 
-注意：此為最低可用性版，有大量地方未更新
+注意：此為最低可用性版本，部份功能未作相應更新
 
 ### 2020-04-03
 主要新增:急所計算、3月攻守Preset
@@ -173,7 +173,4 @@
 * [pikalytics](https://pikalytics.com)
 
 ## 版權
-Pokémon及其所有角色名和圖片為Nintendo/Creatures Inc./GAME FREAK inc的商標和版權 ©1996-2020
-
-## Donation
-你可以用[捐款](https://www.paypal.me/catho7)支持我的開發
+Pokémon及其所有角色名和圖片為Nintendo/Creatures Inc./GAME FREAK inc的商標和版權 ©1996-2021
