@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1637832560534,
+  "timestamp": 1638014049518,
   "index": "/PokemonCalc/index.html",
   "assetGroups": [
     {
@@ -21,11 +21,11 @@
         "/PokemonCalc/assets/pokeball.svg",
         "/PokemonCalc/favicon.ico",
         "/PokemonCalc/index.html",
-        "/PokemonCalc/main.1967ee40137247ba.js",
+        "/PokemonCalc/main.7f5448bd474dc4e4.js",
         "/PokemonCalc/manifest.webmanifest",
         "/PokemonCalc/polyfills.aa6a0659a034f2e9.js",
-        "/PokemonCalc/runtime.95dcc6808369c142.js",
-        "/PokemonCalc/styles.346d62b000ff66d5.css"
+        "/PokemonCalc/runtime.f5129a8f1a877746.js",
+        "/PokemonCalc/styles.174922d78886f182.css"
       ],
       "patterns": []
     },
@@ -4190,14 +4190,14 @@
     "/PokemonCalc/assets/pokeball.svg": "09ff5258af1bf3f036c2ba28a41d23f28e391797",
     "/PokemonCalc/atkitems-s9edf6d9797.31edb6230ca8157d.png": "264e49a01c5499acdb68303c5315b8259f535cf0",
     "/PokemonCalc/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PokemonCalc/index.html": "a60095dacc485fe30213b06dfd424e69b7970781",
+    "/PokemonCalc/index.html": "dc17fec7d35fbdeb19ec39e87c6b48657f80b60c",
     "/PokemonCalc/items-sdd24f8c6e5.d5fc26078f55f1f7.png": "6d77f7f7c907f423c6828e1fbc36697e03f72b79",
-    "/PokemonCalc/main.1967ee40137247ba.js": "796b4d43b292972a4b221a6beaf85bd9e58d2509",
+    "/PokemonCalc/main.7f5448bd474dc4e4.js": "956ea858a86634fcaa3dc25ee47a74cbc015362e",
     "/PokemonCalc/manifest.webmanifest": "1f078b7b2ff664e6a02616b8b7bd27979204db89",
     "/PokemonCalc/ms-sfe757a90d3.621e531387528919.png": "9706a82eac1afc74881494cf9dba38ff80de9a75",
     "/PokemonCalc/polyfills.aa6a0659a034f2e9.js": "cbdbf9ca87a0b06a4bba1a290b3cff42b7b70ba2",
-    "/PokemonCalc/runtime.95dcc6808369c142.js": "37676f046263db351b180fb579ea1c562d60a7e2",
-    "/PokemonCalc/styles.346d62b000ff66d5.css": "39fca3b955a75a3176b12c9c7d4a53e4b9955eae"
+    "/PokemonCalc/runtime.f5129a8f1a877746.js": "02bc81268349002b2348beb7fb4c51cb4dfa4199",
+    "/PokemonCalc/styles.174922d78886f182.css": "d2967ddcace0863519fc4ec496ccd5b5c6309fcc"
   },
   "navigationUrls": [
     {
