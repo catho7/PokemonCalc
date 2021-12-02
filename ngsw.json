@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1638014049518,
+  "timestamp": 1638433178084,
   "index": "/PokemonCalc/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,10 @@
         "ignoreVary": true
       },
       "urls": [
-        "/PokemonCalc/688.41831028dc0d793d.js",
-        "/PokemonCalc/920.1a04fe94112379a6.js",
+        "/PokemonCalc/663.764d5bb001a924b3.js",
+        "/PokemonCalc/688.f16961e2bf628ea0.js",
+        "/PokemonCalc/698.a846bf80ed73ff0a.js",
+        "/PokemonCalc/920.17467b0a7885ea36.js",
         "/PokemonCalc/assets/atkitems-s9edf6d9797.png",
         "/PokemonCalc/assets/fi-cnluxl-plus.svg",
         "/PokemonCalc/assets/fi-xwluxl-plus-wide.svg",
@@ -21,11 +23,11 @@
         "/PokemonCalc/assets/pokeball.svg",
         "/PokemonCalc/favicon.ico",
         "/PokemonCalc/index.html",
-        "/PokemonCalc/main.7f5448bd474dc4e4.js",
+        "/PokemonCalc/main.8705e390380e826b.js",
         "/PokemonCalc/manifest.webmanifest",
         "/PokemonCalc/polyfills.aa6a0659a034f2e9.js",
-        "/PokemonCalc/runtime.f5129a8f1a877746.js",
-        "/PokemonCalc/styles.174922d78886f182.css"
+        "/PokemonCalc/runtime.aea691bdd7fec71a.js",
+        "/PokemonCalc/styles.73e5da7263129467.css"
       ],
       "patterns": []
     },
@@ -2113,8 +2115,10 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/PokemonCalc/688.41831028dc0d793d.js": "e466fa56e2e4d0bd967110827519077a434c16fa",
-    "/PokemonCalc/920.1a04fe94112379a6.js": "dfe90d9259738b075b1f55a3e4c745156ec29e7d",
+    "/PokemonCalc/663.764d5bb001a924b3.js": "a7b30ddc5012e1f1d0f588b1b96dce0f4a7a9719",
+    "/PokemonCalc/688.f16961e2bf628ea0.js": "dab8a6ba4cbc73b25da45084000e78d037b20afa",
+    "/PokemonCalc/698.a846bf80ed73ff0a.js": "199fbfba4512492c54f7ee3515ca8ca62542942e",
+    "/PokemonCalc/920.17467b0a7885ea36.js": "f298259bd4d9b5711647c327d7a2046c7951995f",
     "/PokemonCalc/assets/PM/1.png": "a608a8027cfacc9cfae97ee8edfeeae1dad8c3d2",
     "/PokemonCalc/assets/PM/10.png": "a981d708630072e1b04ccdfb89cc6cd0ed13536d",
     "/PokemonCalc/assets/PM/100.png": "20d2583dce1b0945e3346f4be6ce2576470225c6",
@@ -4190,14 +4194,14 @@
     "/PokemonCalc/assets/pokeball.svg": "09ff5258af1bf3f036c2ba28a41d23f28e391797",
     "/PokemonCalc/atkitems-s9edf6d9797.31edb6230ca8157d.png": "264e49a01c5499acdb68303c5315b8259f535cf0",
     "/PokemonCalc/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PokemonCalc/index.html": "dc17fec7d35fbdeb19ec39e87c6b48657f80b60c",
+    "/PokemonCalc/index.html": "88b849f094da93663a17f68f96eb1afb2aab9589",
     "/PokemonCalc/items-sdd24f8c6e5.d5fc26078f55f1f7.png": "6d77f7f7c907f423c6828e1fbc36697e03f72b79",
-    "/PokemonCalc/main.7f5448bd474dc4e4.js": "956ea858a86634fcaa3dc25ee47a74cbc015362e",
+    "/PokemonCalc/main.8705e390380e826b.js": "12c59f61a9e44afb686cc926b9c5056e49dbd469",
     "/PokemonCalc/manifest.webmanifest": "1f078b7b2ff664e6a02616b8b7bd27979204db89",
     "/PokemonCalc/ms-sfe757a90d3.621e531387528919.png": "9706a82eac1afc74881494cf9dba38ff80de9a75",
     "/PokemonCalc/polyfills.aa6a0659a034f2e9.js": "cbdbf9ca87a0b06a4bba1a290b3cff42b7b70ba2",
-    "/PokemonCalc/runtime.f5129a8f1a877746.js": "02bc81268349002b2348beb7fb4c51cb4dfa4199",
-    "/PokemonCalc/styles.174922d78886f182.css": "d2967ddcace0863519fc4ec496ccd5b5c6309fcc"
+    "/PokemonCalc/runtime.aea691bdd7fec71a.js": "f84ab763a3b5e71f0b70bda999a7fa99feb0297c",
+    "/PokemonCalc/styles.73e5da7263129467.css": "1f76855ae75a146f40465c987dfac34dc94dba80"
   },
   "navigationUrls": [
     {
