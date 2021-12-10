@@ -1,10 +1,10 @@
 # X世代Pokemon傷害計算器 for 劍盾
 有別於傳統單對單計算器，本計算器為無限單對多計算，另附有HP、速度調整功能(前身為次世代Pokemon傷害計算器)，適合VGC使用。
 
-WebApp/PWA:  
+WebApp版:  
 [https://catho7.github.io/PokemonCalc/](https://catho7.github.io/PokemonCalc/)
 
-桌面版: (資料設定會保存於本機上，且獨立於瀏覽器的設定以外)
+Desktop版:(資料設定會保存於本機上，且獨立於瀏覽器的設定以外)  
 [https://github.com/catho7/PokemonCalc/releases](https://github.com/catho7/PokemonCalc/releases)
 
 ## 主要功能
