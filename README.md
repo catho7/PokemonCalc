@@ -50,7 +50,7 @@ Desktop版的設定會獨立保存，與瀏覽器的設定資料分開，且從�
 
 ### 舊更新簡介
 
-[過去的更新簡介](blob/master/CHANGELOG.md)
+[過去的更新簡介](CHANGELOG.md)
 
 
 ## 關於計算結果的準確性
