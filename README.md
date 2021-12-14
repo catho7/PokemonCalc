@@ -2,7 +2,8 @@
 有別於傳統單對單計算器，本計算器為無限單對多計算，另附有HP、速度調整功能(前身為次世代Pokemon傷害計算器)，適合VGC使用。
 
 WebApp版:  
-[https://catho7.github.io/PokemonCalc/](https://catho7.github.io/PokemonCalc/)
+[https://PokemonCalc.web.app/](https://pokemoncalc.web.app/)  
+舊版 - [<del>https://catho7.github.io/PokemonCalc/</del>](https://catho7.github.io/PokemonCalc/) (此網址版不再更新)
 
 Desktop版:(資料設定會保存於本機上，且獨立於瀏覽器的設定以外)  
 [https://github.com/catho7/PokemonCalc/releases](https://github.com/catho7/PokemonCalc/releases)
@@ -25,10 +26,11 @@ Desktop版:(資料設定會保存於本機上，且獨立於瀏覽器的設定�
 
 ## 使用Tips
 * 點擊**箭咀等圖示，可開啟更多功能**
+* 點擊「編輯圖示」以開啟刪除功能，再**配合「一時保存」和招式切換等功能，能幫助組隊** (類似[Team Builder](https://marriland.com/tools/team-builder/)的作用)
 * 真專用特性和專用道具僅限於該怪顯示
 * 善用抓圖以保存結果
 * 保存功能其資料只會保存在當前的機器及瀏覽器 (iOS上不使用兩星期會自動清空，此為iOS的機制)
-* 調整的意義在於對戰時，你會知道發生什麼、不會發生什麼，並能從而判斷出對手的道具等
+* 調整的意義在於對戰時，你會知道發生什麼、不會發生什麼，並能從而判斷出對手的配置等
 * 其他更深入的計算，請使用以下計算器：
 	* [ポケモントレーナー天国](https://pokemon-trainer.net/swsh/damage/)
 	* [ポケマス](https://pokemass.com/swsh/dc)
@@ -37,6 +39,11 @@ Desktop版:(資料設定會保存於本機上，且獨立於瀏覽器的設定�
 ## 更新簡介
 
 只列較重要部份
+
+### 2021-12-14
+修正電話版上點擊後會放大的問題、更新圖示
+
+網址轉為[https://PokemonCalc.web.app/](https://pokemoncalc.web.app/)，Github版不再更新
 
 ### 2021-12-10
 新增Desktop版、<ins>新增圖示、大幅更新本說明文件</ins>、修正問題
@@ -128,6 +135,7 @@ Desktop版的設定會獨立保存，與瀏覽器的設定資料分開，且從�
 * [animate.css](https://github.com/animate-css/animate.css) ([Hippocratic License](http://firstdonoharm.dev/) / MIT)
 * [nano-memoize](https://github.com/anywhichway/nano-memoize) (MIT)
 * [normalize.css](https://github.com/necolas/normalize.css/) (MIT)
+* [raphaelfabeni/css-loader](https://github.com/raphaelfabeni/css-loader) (MIT)
 
 ## 版權
 Pokémon及其所有角色名和圖片為Nintendo/Creatures Inc./GAME FREAK inc的商標和版權 ©1996-2021
