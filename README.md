@@ -1,12 +1,12 @@
-# X世代Pokemon傷害計算器 for 劍盾
-有別於傳統單對單計算器，本計算器為無限單對多計算，另附有HP、速度調整功能(前身為次世代Pokemon傷害計算器)，適合VGC使用。
+# 次世代Pokemon傷害計算器 for 劍盾
+有別於傳統單對單計算器，本計算器為無限單對多計算，另附有HP、速度調整功能，適合VGC使用。(曾稱「X世代Pokemon傷害計算器」)
 
 WebApp版:  
 [https://PokemonCalc.web.app/](https://pokemoncalc.web.app/)  
-舊版 - [<del>https://catho7.github.io/PokemonCalc/</del>](https://catho7.github.io/PokemonCalc/) (此網址版不再更新)
+[<del>https://catho7.github.io/PokemonCalc/</del>](https://catho7.github.io/PokemonCalc/) (舊版，不再更新)
 
-Desktop版:(資料設定會保存於本機上，且獨立於瀏覽器的設定以外)  
-[https://github.com/catho7/PokemonCalc/releases](https://github.com/catho7/PokemonCalc/releases)
+Desktop版:(資料設定會保存在本機，且獨立於瀏覽器的設定)  
+[https://github.com/catho7/PokemonCalc/releases](https://github.com/catho7/PokemonCalc/releases) (絕少更新)
 
 ## 主要功能
 * 攻擊測試：**一對多傷害計算**
@@ -40,6 +40,10 @@ Desktop版:(資料設定會保存於本機上，且獨立於瀏覽器的設定�
 
 只列較重要部份
 
+### 2021-12-16
+
+安全性更新、修正Android上無法安裝問題
+
 ### 2021-12-14
 修正電話版上點擊後會放大的問題、更新圖示
 
@@ -69,13 +73,6 @@ Desktop版的設定會獨立保存，與瀏覽器的設定資料分開，且從�
 絕望真相是，實機+實Game以外的程式都不會有100%準確的計算
 
 實際上，包含環境在內的因素，即使由Game Freak利用遊戲代碼寫出計算器，亦不能保證結果100%跟遊戲一樣，所以任何計算器都只能當作參考。
-
-## 未實裝功能/內容
-* 部份道具
-* 部份特性效果
-* 部份招式效果
-* 部份天氣、場地效果
-* etc
 
 ## Bug Report / 回報或疑問
 * [Github/PokemonCalc](https://github.com/catho7/PokemonCalc/issues/new) (中文、日文和英文也OK)
