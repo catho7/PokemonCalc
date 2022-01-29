@@ -12,7 +12,7 @@ Desktop版較少更新，其資料設定會保存在本機，且獨立於瀏覽�
 
 ## Screenshot
 
-Multiple Pokemon Calculating:  
+Multi Pokemon Calculating on same time:  
 ![Multiple Pokemon Damage Calculating](screenshot/Damage-Tuning.webp)
 
 Speed Fine-tuning:  
