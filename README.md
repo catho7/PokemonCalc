@@ -5,10 +5,21 @@ WebApp版:
 [https://pokemoncalc.web.app/](https://pokemoncalc.web.app/) ([日文語](https://pokemoncalc.web.app/)、[香港中文](https://pokemoncalc.web.app/hk/)、[English](https://pokemoncalc.web.app/en/))  
 [<del>https://catho7.github.io/PokemonCalc/</del>](https://catho7.github.io/PokemonCalc/) (舊版，不再更新)
 
-Desktop版:  
-[macOS](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-darwin-x64.zip)、[Window 64-bit](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-x64.zip)、[Window 32-bit](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-ia32.zip)、[Linux](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-linux-x64.zip)  
+Desktop App版:  
+[macOS](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-darwin-x64.zip) ([M1](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-darwin-arm64.zip))、[Window 64-bit](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-x64.zip) ([32-bit](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-ia32.zip) / [Arm](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-arm64.zip))、[Linux](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-linux-x64.zip)  
 
-(Desktop版較少更新。其資料設定會保存在本機，且獨立於瀏覽器的設定)
+Desktop版較少更新，其資料設定會保存在本機，且獨立於瀏覽器的設定
+
+## Screenshot
+
+Multiple Pokemon Calculating:  
+![Multiple Pokemon Damage Calculating](screenshot/Damage-Tuning.webp)
+
+Speed Fine-tuning:  
+![Speed Fine-tuning](screenshot/Speed-Fine-tuning.webp)
+
+HP Fine-tuning:  
+![HP Fine-tuning](screenshot/HP-Fine-tuning.webp)
 
 ## 主要功能
 * 攻擊測試：**一對多傷害計算**
@@ -24,7 +35,6 @@ Desktop版:
 	* 桌面Google Chrome:「更多圖示->更多工具->建立捷徑」，勾選「**在視窗中開啟**->建立」
 
 安裝後可點擊底部的「オフライン用に画像保存(重い)」以下載離線用圖片。(總大小約6MB，請用WiFi或5G網絡下載，以免拖慢電話及網絡反應)
-
 
 ## 使用Tips
 * 點擊**箭咀等圖示，可開啟更多功能**
