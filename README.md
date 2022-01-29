@@ -2,11 +2,13 @@
 有別於傳統單對單計算器，本計算器為無限單對多計算，另附有HP、速度調整功能，適合VGC使用。(曾稱「X世代Pokemon傷害計算器」)
 
 WebApp版:  
-[https://PokemonCalc.web.app/](https://pokemoncalc.web.app/)  
+[https://pokemoncalc.web.app/](https://pokemoncalc.web.app/) ([日文語](https://pokemoncalc.web.app/)、[香港中文](https://pokemoncalc.web.app/hk/)、[English](https://pokemoncalc.web.app/en/))  
 [<del>https://catho7.github.io/PokemonCalc/</del>](https://catho7.github.io/PokemonCalc/) (舊版，不再更新)
 
-Desktop版:(資料設定會保存在本機，且獨立於瀏覽器的設定)  
-[https://github.com/catho7/PokemonCalc/releases](https://github.com/catho7/PokemonCalc/releases) (絕少更新)
+Desktop版:  
+[macOS](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-darwin-x64.zip)、[Window 64-bit](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-x64.zip)、[Window 32-bit](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-win32-ia32.zip)、[Linux](https://github.com/catho7/PokemonCalc/releases/download/0.0.2/NextGen.Calculator-linux-x64.zip)  
+
+(Desktop版較少更新。其資料設定會保存在本機，且獨立於瀏覽器的設定)
 
 ## 主要功能
 * 攻擊測試：**一對多傷害計算**
@@ -39,6 +41,10 @@ Desktop版:(資料設定會保存在本機，且獨立於瀏覽器的設定)
 ## 更新簡介
 
 只列較重要部份
+
+### 2022-01-28
+
+加入香港中文和英文介面、安全性更新及修正一些問題
 
 ### 2022-01-05
 修正圖鑑的搜尋結果顯示問題
