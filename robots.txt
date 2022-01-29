@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
+Allow: /
 Sitemap: https://catho7.github.io/PokemonCalc/sitemap.txt
