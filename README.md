@@ -2,7 +2,7 @@
 有別於傳統單對單計算器，本計算器為無限單對多計算，另附有HP、速度調整功能，適合VGC使用。(曾稱「X世代Pokemon傷害計算器」)
 
 WebApp版:  
-[https://pokemoncalc.web.app/](https://pokemoncalc.web.app/) ([日文語](https://pokemoncalc.web.app/)、[香港中文](https://pokemoncalc.web.app/hk/)、[English](https://pokemoncalc.web.app/en/))  
+[https://pokemoncalc.web.app/](https://pokemoncalc.web.app/ja/) ([日文語](https://pokemoncalc.web.app/ja/)、[香港中文](https://pokemoncalc.web.app/hk/)、[English](https://pokemoncalc.web.app/en/))  
 [<del>https://catho7.github.io/PokemonCalc/</del>](https://catho7.github.io/PokemonCalc/) (舊版，不再更新)
 
 Desktop App版:  
@@ -51,6 +51,9 @@ HP Fine-tuning:
 ## 更新簡介
 
 只列較重要部份
+
+### 2022-02-02
+解禁XY神獸特性
 
 ### 2022-01-28
 
